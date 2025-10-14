@@ -1,7 +1,6 @@
 # NexOTC Smart Escrow Protocol
 
-**NexOTC** is the non-custodial settlement layer for private markets.  
-It automates OTC trades and syndicate raises with smart escrow, per-investor escrows, broker commissions and verifiable on-chain events. No pooled custody. No storage of PII.
+**NexOTC** is the non-custodial settlement layer for private markets.
 
 > **Status:** This repository currently hosts the public specification, structure and governance documents for the *Smart Escrow Protocol* (MVP). Source code will be added as development milestones are reached.
 
